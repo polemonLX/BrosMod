@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brosmod",
+  "name": "Bros Mod",
+  "description": "A Mod created by the Bros.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://viki.pt/minecraft/mods/brosmod",
+  "updateUrl": "",
+  "authorList": ["Polemon, LeBarraDura"],
+  "credits": "To all our supporters <3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
